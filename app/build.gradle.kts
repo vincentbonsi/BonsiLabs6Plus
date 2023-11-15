@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "algonquin.cst2335.bonsilabs6plus"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "algonquin.cst2335.bonsilabs6plus"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
